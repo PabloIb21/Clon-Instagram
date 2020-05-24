@@ -1,0 +1,88 @@
+.avatar{
+    width: 150px;
+    margin: 10px;
+}
+
+li .avatar,
+.card-header .avatar{
+    width: 35px;
+    height: 35px;
+}
+
+.card-header .avatar{
+    float: left;
+    margin-right: 20px;
+}
+
+.pub-image{
+    margin-bottom: 20px;
+}
+
+.data-user{
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.nickname{
+    color: gray;
+}
+
+.image-container{
+    text-align: center;
+}
+
+.image-container img{
+    max-width: 100%;
+}
+
+.pub-image .card-body{
+    padding: 0px;
+}
+
+.pub-image .data-user a{
+    color: #444;
+}
+
+.pub-image-detail .comments{
+    padding: 20px;
+}
+
+.description{
+    margin-top: 20px;
+    padding: 0 20px;
+}
+
+.btn-comments{
+    margin-bottom: 30px;
+}
+
+.likes{
+    float: left;
+    padding: 0 20px;
+}
+
+.btn-like{
+    color: red;
+}
+
+.btn-dislike{
+    color: black;
+}
+
+.profile-user img{
+    width: 200px;
+    height: 200px;
+    border-radius: 900px;
+    overflow: hidden;
+    float: left;
+}
+
+.user-info{
+    float: left;
+    padding: 50px 0 0 30px;
+}
+
+.btn-search{
+    margin-left: 0px;
+    padding-left: 0px;
+}
